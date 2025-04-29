@@ -1,0 +1,7 @@
+{
+  "name": "yarn-plugin-lifecycle",
+  "version": "1.0.0",
+  "description": "Lifecycle script support for yarn berry (yarn 2+)",
+  "main": "./index.js",
+  "license": "MIT"
+}
